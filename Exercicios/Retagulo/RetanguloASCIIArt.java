@@ -1,7 +1,7 @@
 package formas;
 
-public class RetanguloASCIIArt extends Retangulo {
-    public RetanguloASCIIArt(String texto) {
+public class ASCIIArt extends Retangulo {
+    public ASCIIArt(String texto) {
         super(texto);
     }
 
